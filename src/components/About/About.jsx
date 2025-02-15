@@ -19,8 +19,10 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I specialize in modern frontend technologies like{" "}
+                <strong>React, Vue.js, TypeScript, and Tailwind CSS</strong>. I
+                build scalable, responsive, and high-performance applications
+                that enhance usability and engagement.
               </p>
             </div>
           </li>
@@ -29,8 +31,14 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                I have experience in developing robust, secure, and optimized
+                backend systems. Using <strong>Python, Java,Express.js</strong>,
+                I create scalable APIs and database architectures that ensure
+                seamless data flow between the front-end and back-end.
+                <br /> I work with both relational databases like
+                <strong> PostgreSQL, MySQL</strong> and NoSQL databases such as
+                <strong> MongoDB, Firebase Firestore</strong>, depending on the
+                project requirements.
               </p>
             </div>
           </li>
