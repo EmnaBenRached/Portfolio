@@ -1,29 +1,46 @@
 [
   {
     "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
-  },
-  {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "organisation": "DTI Ulaval",
+    "startDate": "2024",
+    "endDate": "",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Developed modular Vue.js components to improve application maintainability.",
+      "Integrated Firebase for real-time database and user preference management."
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/ulaval.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "MecanHydro",
+    "startDate": "2021",
+    "endDate": "2023",
+    "experiences": [
+      "Automated repetitive design tasks, reducing modeling time by 30%.",
+      "Collaborated with clients to document requirements and integrate them into ERP."
+    ],
+    "imageSrc": "history/mecanhydro.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Fives Liné",
+    "startDate": "2019",
+    "endDate": "2021",
+    "experiences": [
+      "Developed technical solutions based on customer requirements.",
+      "Conducted technical analysis and calculations to ensure product quality."
+    ],
+    "imageSrc": "history/fives.2.png"
+  },
+  {
+    "role": "Methods Analyst",
+    "organisation": "Fontaine Aquanox",
+    "startDate": "2017",
+    "endDate": "2019",
+    "experiences": [
+      "Created technical documentation and standardized processes.",
+      "Participated in biweekly meetings to track project progress."
+    ],
+    "imageSrc": "history/fontaine.png"
   }
 ]
