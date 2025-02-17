@@ -1,25 +1,40 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Project Management Web Application",
+    "imageSrc": "projects/guideScrum.png",
+    "description": "Developed Scrum Guide to organize tasks by status (To Do, In Progress, Done), optimizing project management and team collaboration.",
+    "skills": [
+      "Vue",
+      "Express",
+      "TypeScript",
+      "Storybook",
+      "Tailwind CSS",
+      "Html",
+      "Git"
+    ],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/EmnaBenRached/guide-scrum"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "Restaurant Recommendation Website",
+    "imageSrc": "projects/restaurant.png",
+    "description": "Created an interactive website with a favorite management system and visit tracking.Integrated an API, a secure authentication system, and a map mode for better user experience.",
+    "skills": [
+      "VueJs",
+      "JavaScript",
+      "REST API",
+      "Express",
+      "Bootstap",
+      "Html"
+    ],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/GLO3102/ufood-a2023-team-12"
   },
   {
-    "title": "Project C",
+    "title": "Software Design Project",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "Designed a software solution for chalets with features such as STL export, undo/redo, and accessory management.Implemented design patterns like Factory and Strategy to improve software architecture.",
+    "skills": ["Java", "UML", "Design Patterns", "Git", "Maven"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
