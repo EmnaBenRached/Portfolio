@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Certificat AWS : Cloud Practioner",
+    "imageSrc": "certifications/aws-cp.png"
+  },
+  {
+    "title": "Certificat AWS : Solutions Architect",
+    "imageSrc": "certifications/aws-sa.png"
+  },
+  {
+    "title": "Professional Scrum Master PSM.",
+    "imageSrc": "certifications/PSM.png"
+  }
+]

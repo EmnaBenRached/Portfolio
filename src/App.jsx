@@ -1,5 +1,6 @@
 import styles from "./App.module.css";
 import { About } from "./components/About/About";
+import { Certification } from "./components/Certification/certification";
 import { Contact } from "./components/Contact/Contact";
 import { Experience } from "./components/Experience/Experience";
 import { Hero } from "./components/Hero/Hero";
@@ -14,6 +15,7 @@ function App() {
       <About />
       <Experience />
       <Projects />
+      <Certification />
       <Contact />
     </div>
   );

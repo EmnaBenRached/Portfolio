@@ -19,7 +19,11 @@ export const Hero = () => {
           learn and take on new challenges.
           <br /> Let's build something great together!
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a
+          href="mailto:b.rached.emna@gmail.com"
+          className={styles.contactBtn}
+          target="_blank"
+        >
           Contact Me
         </a>
       </div>
