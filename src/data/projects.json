@@ -37,5 +37,13 @@
     "skills": ["Java", "UML", "Design Patterns", "Git", "Maven"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
+  },
+  {
+    "title": "Find Recipes - Recipe Search App",
+    "imageSrc": "projects/findRecipe.png",
+    "description": "Developed a web application that allows users to search for recipes based on ingredients and save their favorite recipes. The app provides an intuitive UI for an enhanced user experience.",
+    "skills": ["React", "JavaScript", "Tailwind CSS", "HTML", "CSS"],
+    "demo": "https://searchbestrecipe.netlify.app/",
+    "source": "https://github.com/EmnaBenRached/my-recipe-app"
   }
 ]
