@@ -1,19 +1,11 @@
 [
   {
-    "title": "Project Management Web Application",
-    "imageSrc": "projects/guideScrum.png",
-    "description": "Developed Scrum Guide to organize tasks by status (To Do, In Progress, Done), optimizing project management and team collaboration.",
-    "skills": [
-      "Vue",
-      "Express",
-      "TypeScript",
-      "Storybook",
-      "Tailwind CSS",
-      "Html",
-      "Git"
-    ],
-    "demo": "https://scrumguide.netlify.app/",
-    "source": "https://github.com/EmnaBenRached/guide-scrum"
+    "title": "Find Recipes - Recipe Search App",
+    "imageSrc": "projects/findRecipe.png",
+    "description": "Developed a web application that allows users to search for recipes based on ingredients and save their favorite recipes. The app provides an intuitive UI for an enhanced user experience.",
+    "skills": ["React", "JavaScript", "Tailwind CSS", "HTML", "CSS"],
+    "demo": "https://searchbestrecipe.netlify.app/",
+    "source": "https://github.com/EmnaBenRached/my-recipe-app"
   },
   {
     "title": "Restaurant Recommendation Website",
@@ -31,19 +23,27 @@
     "source": "https://github.com/GLO3102/ufood-a2023-team-12"
   },
   {
+    "title": "Project Management Web Application",
+    "imageSrc": "projects/guideScrum.png",
+    "description": "Developed Scrum Guide to organize tasks by status (To Do, In Progress, Done), optimizing project management and team collaboration.",
+    "skills": [
+      "Vue",
+      "Express",
+      "TypeScript",
+      "Storybook",
+      "Tailwind CSS",
+      "Html",
+      "Git"
+    ],
+    "demo": "https://scrumguide.netlify.app/",
+    "source": "https://github.com/EmnaBenRached/guide-scrum"
+  },
+  {
     "title": "Software Design Project",
     "imageSrc": "projects/project.png",
     "description": "Designed a software solution for chalets with features such as STL export, undo/redo, and accessory management.Implemented design patterns like Factory and Strategy to improve software architecture.",
     "skills": ["Java", "UML", "Design Patterns", "Git", "Maven"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
-  },
-  {
-    "title": "Find Recipes - Recipe Search App",
-    "imageSrc": "projects/findRecipe.png",
-    "description": "Developed a web application that allows users to search for recipes based on ingredients and save their favorite recipes. The app provides an intuitive UI for an enhanced user experience.",
-    "skills": ["React", "JavaScript", "Tailwind CSS", "HTML", "CSS"],
-    "demo": "https://searchbestrecipe.netlify.app/",
-    "source": "https://github.com/EmnaBenRached/my-recipe-app"
   }
 ]
