@@ -1,5 +1,13 @@
 [
   {
+    "title": "My Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "Developed a responsive portfolio website to showcase my projects and skills. The website is built using React and Tailwind CSS.",
+    "skills": ["React", "JavaScript", "Tailwind CSS", "HTML", "CSS"],
+    "demo": "https://emnabenrachedportfolio.netlify.app/",
+    "source": "https://github.com/EmnaBenRached/Portfolio"
+  },
+  {
     "title": "Find Recipes - Recipe Search App",
     "imageSrc": "projects/findRecipe.png",
     "description": "Developed a web application that allows users to search for recipes based on ingredients and save their favorite recipes. The app provides an intuitive UI for an enhanced user experience.",
@@ -39,11 +47,10 @@
     "source": "https://github.com/EmnaBenRached/guide-scrum"
   },
   {
-    "title": "Software Design Project",
-    "imageSrc": "projects/project.png",
+    "title": "3D Chalet Design Software",
+    "imageSrc": "projects/chalet.png",
     "description": "Designed a software solution for chalets with features such as STL export, undo/redo, and accessory management.Implemented design patterns like Factory and Strategy to improve software architecture.",
     "skills": ["Java", "UML", "Design Patterns", "Git", "Maven"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://gitlab.com/glo2004-ift2007/A23-Equipe25"
   }
 ]
